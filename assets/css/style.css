@@ -33,7 +33,7 @@ a, a:hover {
 }
 
 .header {
-	background-color: darkslateblue;
+	background-color: #9900ff;
 	height: 177px;
 	font-size: 0.8em;
 	margin-left: 0px;
@@ -58,7 +58,7 @@ a, a:hover {
 
 .logo_text h1, .logo_text h1 a, .logo_text h1 a:hover {
 	padding: 22px 0 0 0;
-	color: #fff;
+	color: #33ffff;
 	letter-spacing: 0.1em;
 	text-decoration: none;
 }
@@ -66,7 +66,7 @@ a, a:hover {
 .logo_text h2 {
 	font-size: 0.9em;
 	padding: 4px 0 0 0;
-	color: #999;
+	color: #aeb002;
 }
 
 .menubar {
@@ -90,7 +90,7 @@ ul.menu li a {
 	display: block;
 	height: 20px;
 	padding: 6px 35px 5px 28px;
-	color: #fff;
+	color: #33ffff;
 	text-decoration: none;
 }
 
