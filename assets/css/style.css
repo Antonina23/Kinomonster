@@ -330,6 +330,10 @@ td img {
 	text-align: center;
 }
 
+.rating {
+	font-weight: both;
+}
+
 .footer {
 	width: 100%;
 	height: 100px;
